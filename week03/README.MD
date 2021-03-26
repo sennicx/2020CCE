@@ -1,4 +1,4 @@
-第十二題 計算陣列的平方值
+##第十二題 計算陣列的平方值
 #include <stdio.h>
 int main()
 {
@@ -15,7 +15,7 @@ printf("%d,",a[i]*a[i]);
 printf("\n");
 
 }
-第十三題 大小寫轉換
+##第十三題 大小寫轉換
 #include <stdio.h>
 int main()
 {
@@ -39,7 +39,7 @@ i++;
 printf("\n");
 
 }
-第十四題 計算幾週與幾天
+##第十四題 計算幾週與幾天
 #include <stdio.h>
 int main()
 {
@@ -50,7 +50,7 @@ printf("%d %d",n/7,n%7);
 printf("\n");
 
 }
-第十五題 計程車資計算
+##第十五題 計程車資計算
 #include <stdio.h>
 int main()
 {
@@ -61,7 +61,7 @@ else printf("%d",110+(x-2499)/500*5);
 printf("\n");
 
 }
-第十六題 兩數間可被5整除的整數
+##第十六題 兩數間可被5整除的整數
 #include <stdio.h>
 int main()
 {
@@ -84,7 +84,7 @@ for(int i=a ; i<=b;i++){
 
 
 }
-第十七題 整數間最大距離
+##第十七題 整數間最大距離
 #include <stdio.h>
 
 int main()
