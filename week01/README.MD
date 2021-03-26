@@ -1,4 +1,4 @@
-分式化簡
+##分式化簡
 #include <stdio.h>
 int main()
 {
@@ -28,7 +28,7 @@ a=a/temp;
 b=b/temp;
 printf("%d%d\n"a,b);
 }
-因數個數
+##因數個數
 #include <stdio.h>
 int main()
 {
@@ -42,7 +42,7 @@ int main()
 }
 printf("%d\n",a);
 }
-找倍數
+##找倍數
 #include<stdio.h>
 int main()
 {
@@ -56,7 +56,7 @@ int main()
  }
  printf("%d\n"ans);
  }
-找零錢
+##找零錢
 #include <stdio.h>
 int main()
 {
@@ -67,7 +67,7 @@ b=n%50/5;
 c=n%50%5;
 printf("%d=50*%d+5*%d+1*%d\n",n,a,b,c);
 }
-整數轉換為等級
+##整數轉換為等級
 #include<stdio.h>
 int main()
 {
